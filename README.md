@@ -4,12 +4,6 @@
  
 <div align="center">
   <div align="center">
-
-[![Stars](https://img.shields.io/github/stars/LondheShubham153/retail-store-sample-app)](Stars)
-![GitHub License](https://img.shields.io/github/license/LondheShubham153/retail-store-sample-app?color=green)
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%LondheShubham153%2Fretail-store-sample-app%2Frefs%2Fheads%2Fmain%2F.release-please-manifest.json&query=%24%5B%22.%22%5D&label=release)
-
-
   </div>
 
   <strong>
@@ -32,7 +26,7 @@ This is a sample application designed to illustrate various concepts related to 
 - [Infrastructure Components](#infrastructure-components)
 - [CI/CD Pipeline](#cicd-pipeline)
 - [Monitoring and Observability](#monitoring-and-observability)
-- [Cleanup](https://github.com/LondheShubham153/retail-store-sample-app/blob/main/README.md#step-12-cleanup)
+- [Cleanup](https://github.com/thundercap/KubeProject/blob/main/README.md#step-12-cleanup)
 - [Troubleshooting](#troubleshooting)
 
 ## Overview
@@ -385,8 +379,7 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](./LICE
 
 ## Support
 
-- **Issues**: [GitHub Issues](https://github.com/LondheShubham153/retail-store-sample-app/issues)
-- **Discord**: [TrainWithShubhamCommunity](https://discord.gg/kGEr9mR5gT)
+- **Issues**: [GitHub Issues](https://github.com/thundercap/KubeProject/issues)
 
 ---
 
