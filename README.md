@@ -82,7 +82,7 @@ The Infrastructure Architecture follows cloud-native best practices:
 
 1. **Install Prerequisites**: AWS CLI, Terraform, kubectl, Docker, Helm
 2. **Configure AWS**: `aws configure` with appropriate credentials
-3. **Clone Repository**: `git clone https://github.com/LondheShubham153/retail-store-sample-app.git`
+3. **Clone Repository**: `git clone https://github.com/thundercap/KubeProject.git`
 4. **Deploy Infrastructure**: Run Terraform in two phases (see [Getting Started](#getting-started))
 5. **Access Application**: Get load balancer URL and browse the retail store
 
@@ -114,7 +114,7 @@ This repository uses a **dual-branch approach** for different deployment scenari
 
 1. **Install Prerequisites**: AWS CLI, Terraform, kubectl, Docker, Helm
 2. **Configure AWS**: `aws configure` with appropriate credentials
-3. **Clone Repository**: `git clone https://github.com/LondheShubham153/retail-store-sample-app.git`
+3. **Clone Repository**: `git clone https://github.com/thundercap/KubeProject.git`
 4. **Deploy Infrastructure**: Run Terraform in two phases (see [Getting Started](#getting-started))
 5. **Access Application**: Get load balancer URL and browse the retail store
 
@@ -187,7 +187,7 @@ aws configure
 ### Step 2. Clone the Repository:
 
 ```sh
-git clone https://github.com/LondheShubham153/retail-store-sample-app.git
+git clone https://github.com/thundercap/KubeProject.git
 ```
 
 > [!IMPORTANT]
